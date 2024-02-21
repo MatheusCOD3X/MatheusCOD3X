@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on Fullstack development.
 - 🌱 I’m currently learning cloud computing with Microsoft Azure and front-end with React and Typescript.
 
+About me:
+- As a Fullstack Software Developer with a Bachelor of Science in Information Systems, I've been working in system development since 2019, specializing in the .NET platform with languages like C#, VB.Net, and Javascript, as well as frameworks including React and Angular. Proficient in HTML, CSS, and various databases such as MongoDb, SQL Server, and Oracle, I recently contributed to investor acquisition systems for Bradesco and Itaú banks at CodeCycle. Prior roles at Luizalabs and Sanfir Tech involved maintaining and enhancing e-commerce, seller management, marketing, and coupon platforms using Azure Cloud, ASP.Net, TypeScript, and MVC. Committed to principles like Clean Code, S.O.L.I.D., TDD, and CI/CD, I'm always eager for new challenges to learn and contribute. Outside of work, I run an educational YouTube channel called COD3X, where I share insights and assist beginners and intermediates in software development and IT concepts. Passionate about technology, innovation, and education, I also enjoy networking and collaborating with fellow professionals and learners in the field. Let's innovate and grow together! 🚀
+
 <div>
   <a href="https://github.com/MatheusCOD3X">
   <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusCOD3X&show_icons=true&theme=dark"/>
